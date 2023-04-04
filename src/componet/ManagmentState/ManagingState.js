@@ -1,5 +1,5 @@
 import React, { useState } from "react";
-import '../componet/ManagingState.css'
+import '../ManagmentState/ManagingState.css'
 
 
 const ManagingState = () =>{
